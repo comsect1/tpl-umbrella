@@ -11,7 +11,7 @@ categories. No category label or role is implied by this template.
 
 ## Category form
 
-- Name every category `<NN>_u-<category>/`, where `NN` is a two-digit local
+- Name every category `<NN>_<category>/`, where `NN` is a two-digit local
   ordering key and `<category>` is a stable lowercase kebab-case label.
 - Numbers are local presentation order. They need not be contiguous and do not
   carry a universal meaning across umbrellas.

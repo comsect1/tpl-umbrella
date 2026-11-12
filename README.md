@@ -4,7 +4,7 @@ Fork this repository to classify and pin independent repositories without
 absorbing their implementation, Git history, Cell authority, or licenses.
 
 The umbrella owns only numbered member categories and their Git membership
-index. During adoption, create the `<NN>_u-<category>/` directories needed by
+index. During adoption, create the `<NN>_<category>/` directories needed by
 the umbrella and register members through `.gitmodules`. Project roots such as
 `10_pkg/`, `20_ops/`, and `30_cert/` belong to unit repositories, not umbrellas.
 
@@ -34,7 +34,7 @@ that member repository's own authority, run
 the correction flow. Forge applies exact mechanical candidates without
 approval, reruns the same Gate, and only labels remaining direct rework IDs; it
 never launches AI. The umbrella retains only its locally shaped
-`<NN>_u-<category>` groups and never acquires unit project roots.
+`<NN>_<category>` groups and never acquires unit project roots.
 
 ## Author and governance
 

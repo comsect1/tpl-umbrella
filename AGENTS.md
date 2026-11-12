@@ -6,7 +6,7 @@
   not own or absorb member implementation, history, Cell authority, or license.
 - `.gitmodules` and the committed gitlinks are the sole membership authority.
 - Register every member directly below one numbered category named
-  `<NN>_u-<category>/`. A category is an ordinary umbrella-owned directory, not
+  `<NN>_<category>/`. A category is an ordinary umbrella-owned directory, not
   a repository or a Cell.
 - The template standardizes that category form, not a global taxonomy. Each
   downstream umbrella owns its category vocabulary, ordering, and boundaries.

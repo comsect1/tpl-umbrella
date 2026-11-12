@@ -3,7 +3,7 @@
 ## Umbrella-only changes
 
 Classification, category README, `.gitmodules`, integration tooling, and
-umbrella records are owned here. Use numbered `<NN>_u-<category>/` directories;
+umbrella records are owned here. Use numbered `<NN>_<category>/` directories;
 never flatten or absorb a member repository.
 
 Replace obsolete umbrella structure directly. Do not retain old categories,

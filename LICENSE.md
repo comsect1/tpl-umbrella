@@ -200,7 +200,7 @@
       When this template repository is used as a project/umbrella scaffold
       (forked, copied, or instantiated into a downstream project or umbrella),
       downstream member repositories pinned beneath numbered category directories
-      (`<NN>_u-<category>/`) and their independently authored artifacts are recognized as
+      (`<NN>_<category>/`) and their independently authored artifacts are recognized as
       independent works.
 
    2. Notice and Redistribution Waiver for Downstream Works:

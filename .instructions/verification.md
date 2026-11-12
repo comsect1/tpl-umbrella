@@ -3,7 +3,7 @@
 For every umbrella change:
 
 1. Confirm the root contains no unit-repository scaffold directories.
-2. Confirm every `<NN>_u-<category>/` has a boundary `README.md`.
+2. Confirm every `<NN>_<category>/` has a boundary `README.md`.
 3. Confirm every gitlink path, URL, and branch agrees with `.gitmodules`.
 4. Confirm no category directory is itself a submodule.
 5. Confirm each new pin exists at its declared remote.

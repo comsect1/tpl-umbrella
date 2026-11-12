@@ -9,7 +9,7 @@
 5. Put durable downstream-specific classification vocabulary, integration
    constraints, and operating guidance in `.instructions/local/`, with every
    file indexed from `.instructions/local/README.md`.
-6. Create the required numbered `<NN>_u-<category>/` directories and give each
+6. Create the required numbered `<NN>_<category>/` directories and give each
    a boundary `README.md`; do not retain a generic member placeholder.
 7. Add `.gitmodules` with the first member. Do not create another membership
    manifest.
